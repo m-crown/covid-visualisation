@@ -1,5 +1,4 @@
 # covid-visualisation
- Repo of scripts for visualisation of covid sequencing runs
 
  Requires stringr and optparse R libraries, and krona tools. 
 
